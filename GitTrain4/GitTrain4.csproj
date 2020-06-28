@@ -47,6 +47,7 @@
     <Compile Include="Modules\FirstModule.cs" />
     <Compile Include="IModule.cs" />
     <Compile Include="Modules\MyFirstModule.cs" />
+    <Compile Include="Modules\MySecondModule.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
