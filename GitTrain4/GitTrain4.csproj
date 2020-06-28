@@ -48,6 +48,7 @@
     <Compile Include="IModule.cs" />
     <Compile Include="Modules\OtherDev1.cs" />
     <Compile Include="Modules\OtherDev2.cs" />
+    <Compile Include="Modules\Write.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
