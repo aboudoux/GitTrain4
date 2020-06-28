@@ -46,6 +46,7 @@
     <Compile Include="AssemblyExtentions.cs" />
     <Compile Include="Modules\FirstModule.cs" />
     <Compile Include="IModule.cs" />
+    <Compile Include="Modules\OtherDev1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
