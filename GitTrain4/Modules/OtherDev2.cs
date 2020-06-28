@@ -4,7 +4,7 @@ namespace GitTrain4
 {
 	public class OtherDev2 : IModule {
 		public void Run() {
-			Console.WriteLine("Otherdev deuxieme module");
+			Write.Color("Otherdev deuxieme module", ConsoleColor.Cyan);
 		}
 	}
 }

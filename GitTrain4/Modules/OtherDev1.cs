@@ -6,7 +6,7 @@ namespace GitTrain4
 	{
 		public void Run()
 		{
-			Console.WriteLine("Otherdev premier module");
+			Write.Color("Otherdev premier module", ConsoleColor.Blue);
 		}
 	}
 }
